@@ -12,7 +12,7 @@ wget -O install.sh http://f.cccyun.cc/bt/install_6.0.sh && bash install.sh
 ```
 * 如果原链接无法访问
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/s700k/btpanel_mod/main/install_6.0_mod.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/loring1/btpanel_mod/main/install_6.0_mod.sh && bash install.sh
 ```
 
 **宝塔面板7.7一键优化补丁**
@@ -37,11 +37,11 @@ wget -O optimize.sh http://f.cccyun.cc/bt/optimize.sh && bash optimize.sh
 ```
 * 如果原链接无法访问
 ```bash
-wget -O optimize.sh https://raw.githubusercontent.com/s700k/btpanel_mod/main/optimize_mod.sh && bash optimize.sh
+wget -O optimize.sh https://raw.githubusercontent.com/loring1/btpanel_mod/main/optimize_mod.sh && bash optimize.sh
 ```
 * 如果Ngnix创建的网站出现403 forbidden(保留网站创建的文件)
 ```bash
-wget -O optimize.sh https://raw.githubusercontent.com/s700k/btpanel_mod/main/optimize_mod2.sh && bash optimize.sh
+wget -O optimize.sh https://raw.githubusercontent.com/loring1/btpanel_mod/main/optimize_mod2.sh && bash optimize.sh
 ```
 
 Credit @消失的彩虹海  
